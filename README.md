@@ -1,8 +1,8 @@
-# React + Vite
+# Simple BG Changer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to use the useState hook of react. </br>
+The CSS is implemented by the Tailwind lib.</br>
 
-Currently, two official plugins are available:
+<img width="1280" alt="Screenshot 2024-11-19 at 8 55 45 AM" src="https://github.com/user-attachments/assets/8f2996fa-077f-4230-b48e-dbc7b79ec9a4"></br>
+<img width="1280" alt="Screenshot 2024-11-19 at 8 56 12 AM" src="https://github.com/user-attachments/assets/b17dda96-d5de-4a33-a648-e49c41fa2a94">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
